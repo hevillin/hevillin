@@ -5,7 +5,7 @@ meu nome é Hevillin Marques
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-  ![cute dog gif] (https://media1.tenor.com/m/_oNIzx2StnIAAAAC/cute-dog.gif) 
+  ![fofo] (https://media1.tenor.com/m/eN0iceEScLQAAAAd/fofo.gif) 
 
  
 
